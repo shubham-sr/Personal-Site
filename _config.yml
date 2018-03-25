@@ -1,6 +1,6 @@
 # Site settings
 # in the templates available like {{ site.myvariable }}.
-title: Clean portfolio theme for Jekyll powered by Bootstrap 4.
+title: 
 email: your-email@domain.com
 brand: Dr. Kumar Shubham
 headline: HOD & Associate Professor, Delhi Technical Campus
